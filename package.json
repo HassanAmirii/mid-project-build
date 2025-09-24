@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "csv-parser": "^3.2.0"
-  }
+    "@prisma/client": "^6.16.2",
+    "csv-parser": "^3.2.0",
+    "prisma": "^6.16.2"
+  },
+  "name": "mid-project-build",
+  "version": "1.0.0",
+  "description": "meant to contain short projects attempt to be able to understand a bigger one i come across mid projects",
+  "main": "readcsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassanAmirii/mid-project-build.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HassanAmirii/mid-project-build/issues"
+  },
+  "homepage": "https://github.com/HassanAmirii/mid-project-build#readme"
 }
